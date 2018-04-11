@@ -1,6 +1,10 @@
-# Shanzhai Archeology
+---
+layout: default
+---
 
 INSTALLATION, COLLECTION, RESEARCH, EDITION | 2015-2018
+
+## News
 
 {% include news.html %}
 
@@ -26,8 +30,8 @@ INSTALLATION, COLLECTION, RESEARCH, EDITION | 2015-2018
 * [Post internet artists crack open our technological past](https://hyperallergic.com/379345/post-internet-artists-crack-open-our-technological-past/) in Hyperallergic, 2017
 * [Bandits Brought Technology to This World](http://thepiratebook.net/shanzhai/) An essay by Clement Renaud, 2014 (edited in The Pirate Book, 2015)
 
-And also [Digital MCD](http://www.digitalmcd.com/disnovation/) (French),
- [Digital Arti](https://media.digitalarti.com/fr/blog/digitalarti_mag/disnovationorg_les_contre_recits_de_l_innovation_a_stereolux)
+And also [Digital MCD (French)](http://www.digitalmcd.com/disnovation/),
+ [Digital Arti (French)](https://media.digitalarti.com/fr/blog/digitalarti_mag/disnovationorg_les_contre_recits_de_l_innovation_a_stereolux), etc.
 
 
 ## Social
@@ -35,8 +39,6 @@ And also [Digital MCD](http://www.digitalmcd.com/disnovation/) (French),
 - [DISNOVATION.ORG](http://disnovation.org)
 - [Twitter](http://twitter.com/disnovation)
 - [Facebook](http://facebook.com/disnovation)
-
-For questions, send us an email at [hello@shanzhai-archeology.net](mailto:hello@shanzhai-archeology.net)
 
 
 ### Team

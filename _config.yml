@@ -1,0 +1,10 @@
+
+title: Shanzhai Archeology
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+sass:
+  sass_dir: scss
