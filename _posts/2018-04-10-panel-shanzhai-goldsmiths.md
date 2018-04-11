@@ -2,5 +2,6 @@
 type: post
 title: Panel at Goldsmiths University in London
 link:
-date: 6-9PM, may 15TH, 2018
 ---
+
+6-9PM, May 15TH, 2018. Panel about Shanzhai in London

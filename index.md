@@ -2,6 +2,8 @@
 
 INSTALLATION, COLLECTION, RESEARCH, EDITION | 2015-2018
 
+{% include news.html %}
+
 ## Previous exhibitions
 
 * Museum L, Louvain-la-Neuve, 2018 (BE)
