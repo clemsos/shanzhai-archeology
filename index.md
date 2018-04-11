@@ -34,13 +34,6 @@ And also [Digital MCD (French)](http://www.digitalmcd.com/disnovation/),
  [Digital Arti (French)](https://media.digitalarti.com/fr/blog/digitalarti_mag/disnovationorg_les_contre_recits_de_l_innovation_a_stereolux), etc.
 
 
-## Social
-
-- [DISNOVATION.ORG](http://disnovation.org)
-- [Twitter](http://twitter.com/disnovation)
-- [Facebook](http://facebook.com/disnovation)
-
-
 ### Team
 
 A project by CONCEPTION: [DISNOVATION.ORG](http://disnovation.org), [CLÉMENT RENAUD](http://clementrenaud.com) & [YUAN QU](http://quhongyuan.com)
