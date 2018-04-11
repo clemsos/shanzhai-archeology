@@ -11,7 +11,7 @@ Website for the shanzhai archeology project
   - [ ] Videos
   - [ ] Install pics
   - [ ] Project timeline
-  - [ ] List of Publications
+  - [x] List of Publications
   - [ ] List all past shows
 - Actions
   - [ ] Call to participation (send your piece to the collection)
@@ -28,11 +28,11 @@ Website for the shanzhai archeology project
   - [ ] In the press / previous articles
   - [ ] Press kit / get in touch
 - Social
-  - [ ] Email
-  - [ ] Twitter
-  - [ ] Facebook
-  - [ ] Disnovation website
+  - [x] Email
+  - [x] Twitter
+  - [x] Facebook
+  - [x] Disnovation website
 - Credits
-  - [ ] Team
+  - [x] Team
   - [ ] Thanks
   - [ ] Sponsors
