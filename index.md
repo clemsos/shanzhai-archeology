@@ -36,7 +36,7 @@ And also [Digital MCD (French)](http://www.digitalmcd.com/disnovation/),
 
 ### Team
 
-A project by CONCEPTION: [DISNOVATION.ORG](http://disnovation.org), [CLÉMENT RENAUD](http://clementrenaud.com) & [YUAN QU](http://quhongyuan.com)
+A project by: [DISNOVATION.ORG](http://disnovation.org), [CLÉMENT RENAUD](http://clementrenaud.com) & [YUAN QU](http://quhongyuan.com)
 
 
 ### Sponsors
